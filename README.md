@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Baran Üçdağ. I am a seconde year computer engineering student at the Gazi Universty. I also work for a company as an intern. Below you can find some small information about me.
 <!--
 **baranucdag/BaranUcdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
