@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Baran Üçdağ. I am a second year computer engineering student at the Gazi Universty. I also work for a company as an intern. Below you can find some small information about me.
+I am Baran Üçdağ. I am a second year computer engineering student at the Gazi University. I also work for a company as an intern. Below you can find some small information about me.
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/baran-%C3%BC%C3%A7da%C4%9F-a01709197/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ucdagbrn@gmail.com" target="_blank" rel="nofollow"><img alt="Baran's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
