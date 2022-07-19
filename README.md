@@ -17,7 +17,7 @@ I am Baran Üçdağ. I am a second year computer engineering student at the Gazi
 
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/baranucdag/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/baranucdag/github-stats-transparent/output/generated/languages.svg)
 
 </a>
