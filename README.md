@@ -19,9 +19,5 @@ I am Baran Üçdağ. I am a second year computer engineering student at the Gazi
 
 <a href="https://github.com/baranucdag">
 <img src="https://github-readme-stats.vercel.app/api?username=baranucdag&theme=radical" />
-
-</a>
-</br>
-<a href="https://github.com/baranucdag">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranucdag&layout=compact&theme=radical" />
 </a>
