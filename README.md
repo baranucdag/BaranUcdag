@@ -19,7 +19,7 @@ I am Baran Üçdağ. I am a second year computer engineering student at the Gazi
 </details>
 
 <details>
-<summary>:bulb Most Used Languages </summary>
+<summary> Most Used Languages </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranucdag&layout=compact">
 </details>
 
