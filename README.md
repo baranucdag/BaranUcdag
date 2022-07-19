@@ -16,8 +16,6 @@ I am Baran Üçdağ. I am a second year computer engineering student at the Gazi
 # [GitHub Stats Visualization](https://github.com/baranucdag)
 
 <a href="https://github.com/baranucdag">
-<img src="https://github-readme-stats.vercel.app/api?username=baranucdag" />
-<img src="https://github.com/baranucdag/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/baranucdag/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/baranucdag/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=baranucdag&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranucdag&layout=compact" />
 </a>
