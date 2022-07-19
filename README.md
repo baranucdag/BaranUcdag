@@ -13,9 +13,15 @@ I am Baran Üçdağ. I am a second year computer engineering student at the Gazi
  <img src="https://w7.pngwing.com/pngs/244/430/png-transparent-microsoft-sql-server-sql-server-management-studio-database-server-microsoft-angle-text-triangle-thumbnail.png" alt="mssql" width="70" height="30px" /> </a> <a href="https://www.mysql.com/" target="_blank"> 
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/></img>>
 
+# [GitHub Stats](https://github.com/baranucdag)
+
 # [GitHub Stats Visualization](https://github.com/baranucdag)
 
 <a href="https://github.com/baranucdag">
 <img src="https://github-readme-stats.vercel.app/api?username=baranucdag&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranucdag&layout=compact" />
+
+</a>
+</br>
+<a href="https://github.com/baranucdag">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranucdag&layout=compact&theme=radical" />
 </a>
